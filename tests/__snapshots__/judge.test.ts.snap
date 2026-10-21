@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`LocalJudge > matches the seed snapshot (stable confidences) 1`] = `
+{
+  "comp-bonus": 0.95,
+  "comp-offer": 0.54,
+  "comp-q3": 0.55,
+  "comp-raise": 0.55,
+  "figma-invoice": 0.95,
+  "fun-run": 0.96,
+  "linear-sso": 0.05,
+  "offsite": 0.05,
+}
+`;
